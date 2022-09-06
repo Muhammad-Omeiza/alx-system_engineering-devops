@@ -1,2 +1,2 @@
 #!/bin/bashh
-cat iacta | tail -n 1 | echo iacta >> iacta
+cat iacta | tail -n 1 | echo iacta > > iacta
